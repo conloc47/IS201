@@ -1,0 +1,155 @@
+body {
+    background-color: rgba(227, 191, 119, 0.871);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-bottom: 75px;
+
+
+}
+h1{
+    color: rgb(14, 12, 12);
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
+h1:hover {color: maroon;}
+
+h2{
+    color: rgb(14, 12, 12);
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
+h2:hover {color: maroon;}
+
+h3 {
+    color: rgb(14, 12, 12);
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Brush Script MT', cursive;
+    font-size:2em;
+    margin: 5px;
+}
+a { color: black;}
+a:visited { color: rgb(11, 16, 11);}
+#Top 
+    width:40%;
+    margin:auto;
+    display: block;
+  
+ul {
+    list-style-type: ;
+}
+
+.unique {
+    margin-left: 3em;
+}
+#Youtubevideo {
+    align-content: center;
+    display: block;
+    margin: auto;
+}
+nav {
+
+    text-align: center;
+
+    background-color:rgba 227, 191, 119, 0.871;
+
+    overflow: hidden;
+
+    width: 100%;
+
+    position:sticky;
+
+    top: 0px;
+
+   
+
+}
+
+nav a {
+
+    color: rgb(235, 25, 25);
+
+    display: block;
+
+    float: left;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration: none;
+
+}
+
+nav a:hover {
+
+    background-color: red;
+
+}
+
+footer {
+    text-align: center;
+    background-color:  rgba(227, 191, 119, 0.871);
+    width: 100%;
+    border-top: 10px rgb(6, 231, 40);
+    display: block;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.Vizsla img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: "400";
+  height: "400";
+  
+}
+
+.Vizsla2 img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: "400";
+  height: "400"  ;
+  
+}
+
+.Vizsla3 img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: "400";
+  height: "50";
+  
+}
+
+
+.video {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+
+  div.need {
+    text-align: center;
+  }
+  
+  ol.myol {
+    display: inline-block;
+    text-align: ;
+  }
